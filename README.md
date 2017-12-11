@@ -1,1 +1,1 @@
-# Hive source code for CIA software projects
+# CIA's Malware Control System - Hive
